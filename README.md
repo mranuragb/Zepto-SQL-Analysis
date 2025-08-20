@@ -5,4 +5,3 @@ The goal of this analysis is to explore product availability, pricing, category 
 
 ---
 
-## 📂 Project Structure
